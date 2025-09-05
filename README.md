@@ -170,7 +170,7 @@ Modify `src/animation.html` to customize:
 
 ## 👨‍💻 Author
 
-**Himan** - [GitHub Profile](https://github.com/HMSthecoder)
+**Himanshu** - [GitHub Profile](https://github.com/HMSthecoder)
 
 ## 🙏 Acknowledgments
 

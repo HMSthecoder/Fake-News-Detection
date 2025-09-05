@@ -143,10 +143,6 @@ The project includes comprehensive EDA covering:
 
 Update file paths in `src/app.py` if needed:
 
-```python
-model_dir = r"C:\Users\himan\Downloads\Learning\Projects\Fake News Detection\model"
-```
-
 ### Animation Customization
 
 Modify `src/animation.html` to customize:
@@ -171,9 +167,6 @@ Modify `src/animation.html` to customize:
 4. Push to branch (`git push origin feature/enhancement`)
 5. Create Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👨‍💻 Author
 
